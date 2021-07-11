@@ -16,3 +16,6 @@ You're welcome, since you probably also forgot the syntax for `ln` you fucking w
 
 XOXO
 Your past self
+
+## NOTE TO RANDOM INTERNETS STOPPING BY
+There's no license because this isn't software.  Do whatever you want with this config.
